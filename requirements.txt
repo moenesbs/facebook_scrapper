@@ -1,0 +1,8 @@
+beautifulsoup4==4.11.1
+fastapi==0.85.2
+pymongo==4.3.2
+selenium==4.5.0
+uvicorn==0.19.0
+webdriver_manager
+lxml
+python-dotenv
